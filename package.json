@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"name": "asp.net",
+	"private": true,
+    "devDependencies": {
+        "d3": "4.4.0",
+        "@types/d3": "4.4.0"
+    }
+}
